@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Yukki Support
+    url: https://t.me/Mr_Mrs_Krishna
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://Mr_Mrs_Krishna/
+    about: Documentation for getting started with bot.
